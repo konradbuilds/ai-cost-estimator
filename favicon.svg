@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AI Cost Estimator">
+  <rect width="64" height="64" rx="14" fill="#292A2C"/>
+  <g stroke-linecap="round" fill="none" stroke-width="5">
+    <line x1="11" y1="24" x2="53" y2="24" stroke="#ffffff" stroke-opacity=".2"/>
+    <line x1="11" y1="24" x2="25" y2="24" stroke="#FFA471"/>
+    <line x1="11" y1="42" x2="53" y2="42" stroke="#ffffff" stroke-opacity=".2"/>
+    <line x1="11" y1="42" x2="41" y2="42" stroke="#ED4E7F"/>
+  </g>
+  <circle cx="25" cy="24" r="8" fill="#FFA471" stroke="#292A2C" stroke-width="3"/>
+  <circle cx="41" cy="42" r="8" fill="#ED4E7F" stroke="#292A2C" stroke-width="3"/>
+</svg>
