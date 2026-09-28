@@ -3,9 +3,8 @@
 **A simple guide to the monthly bill of your AI tool.** 12 AI models compared, with recommendations —
 and what it costs when someone abuses it.
 
-A free, single-file web tool that turns "200 users, a few questions each" into a number with a
-currency sign — across 12 models from OpenAI, Anthropic and Google. No signup, no backend, no
-database, no cookies. Everything runs in the browser.
+A free, single-file web tool that compares 12 models from OpenAI, Anthropic and Google. 
+No signup, no backend, no database, no cookies. Everything runs in the browser. 
 
 **→ [konradbuilds.github.io/ai-cost-estimator](https://konradbuilds.github.io/ai-cost-estimator/)**
 
